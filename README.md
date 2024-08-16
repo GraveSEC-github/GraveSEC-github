@@ -1,4 +1,4 @@
-# GraveSEC Portfolio by William Graves
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=609EF7&width=476&lines=Hi!+Welcome+to+GraveSEC+on+Github!;My+name+is+William+Graves..;..and+I'm+a+novice+cyber+professional.;I+have+a+focused+interest+in+strengthening..;..+defensive+security+infrastructure+..;..+vulnerability+management+..;..+and+incident+response.;Check+out+my+work+below!)](https://git.io/typing-svg)
 
 <header id="header"
   <div>
@@ -9,7 +9,6 @@
 ## About Me
 
 <a href="https://www.linkedin.com/in/williamgraves-gravesec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/WilliamGra38391/"><img src="https://img.shields.io/badge/-X-333333?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 
 Hello ! I am William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. Thriller and suspenseful movies. I also enjoy moderate fitness and participating in playing basketball from time to time. As well as cooking and spending time with close friends and loved ones, in my other free time, my hobby is cyber security.
