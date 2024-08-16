@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=609EF7&width=476&lines=Hi!+Welcome+to+GraveSEC+on+Github!;My+name+is+William+Graves..;..and+I'm+a+novice+cyber+professional.;I+have+a+focused+interest+in+strengthening..;..+defensive+security+infrastructure+..;..+vulnerability+management+..;..+and+incident+response.;Check+out+my+work+below!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=609EF7&width=476&lines=Hi!+Welcome+to+GraveSEC+on+Github!;My+name+is+William+Graves..;..and+I'm+a+novice+cyber+professional.;I+have+a+focused+interest+in+strengthening..;..+defensive+security+infrastructure+..;..+vulnerability+management+..;..+and+incident+response+objectives.;Check+out+my+work+below!)](https://git.io/typing-svg)
 
 <header id="header"
   <div>
