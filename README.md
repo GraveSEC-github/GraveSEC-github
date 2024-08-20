@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 <a href="https://www.youtube.com/@GraveSEC"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-Hello ! I am William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. Thriller and suspenseful movies. I also enjoy moderate fitness and participating in playing basketball from time to time. As well as cooking and spending time with close friends and loved ones, in my other free time, my hobby is cyber security.
+Hello ! I am William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. I aslo love watching thriller, action & suspenseful movies. I enjoy moderate fitness and participating in playing basketball from time to time as well as cooking and spending time with close friends and loved ones. With the rest of my free time, my hobby is cybersecurity curiousity.
 
 ### My Objective
 
@@ -33,40 +33,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
   </tr>
 </table>
   
-## Experience
+## My Projects
 
-| Skills & Practices                 | Associated Lab Project         |
+| Objective & Practices                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
-| Security Awareness & Intelligence | <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a> |
-| Windows Server/ Administrator (Active Direectory, DNS & DC) |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a> |
-| Linux Foundation  | <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS</a>|
-| Network Security - Firewalls |
-| VPN - Securing Remote Access |
-| SIEM - Security Information & Event Management |
-| Data Analysis, Escalation, Persistence, Exploitation & Sabotage, Avoiding Detection & Exfiltration | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a> |
-| SIEM/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a> |
-| Endpoint Detection & Response (EDR) |
-| Intrusion Detection Systems (IDS) & Intrusion Prevention Systems (IPS) | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Building Lab Host PC | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">GraveSEC - OPSEC</a> |
+| Security Awareness User Intelligence Training | <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a> |
+| Network & Firewall Implementation (IDS & IPS) |
+| Windows Server/ Administrator w/ Active Direectory (DC & DNS) |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a> |
+| SIEM - (Wazuh, ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a> |
+| Rouge Red Team | Penetration Test Gone Wrong |
 | Incident Response -  Planning & Execution | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a> |
-| Cryptography Technologies | <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a> |
-| Azure/ Cloud Database Security Solutions | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure</a> |
-| NIST, ISO/ IEC, GDPR & HIPAA Frameworks | <a href="">Risk Management Frameworks</a> |
-| MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a> |
-| Building Home Lab/ 'GraveSEC SOC' with Proxmox | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">GraveSEC - Cyber Intelligence</a> |
+| GRC Framework Overview | <a href="">Risk Management Frameworks</a> |
+| Threat Intelligence Lab | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a> |
 
-## GraveSEC Home Lab - Projects
 
-I realized the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as SOC operations, practical skills would prepare me for real-world scenarios and help me stand out in the job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, and cost-effectiveness (it's open-source!). I also mapped out my goals for the lab, focusing on key areas like network security, endpoint protection, threat intelligence, and log management. Since I was just starting out, I did not want to invest in expensive hardware, so I repurposed an old mini desktop PC with decent specs and ensured it had enough RAM and storage to run multiple virtual machines simultaneously. By working on these beginner projects in my Proxmox-based SOC home lab, I was able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me my career. Check out my <a href="https://lucky-salto-c8e.notion.site/My-Proxmox-VE-GraveSEC-Home-SOC-Lab-11b5af4946b34615b4f12a22aa1df21b?pvs=4/blob/main/README.md">GraveSEC Home Lab Guide</a> and follow my work below.
+## GraveSEC Home Lab Overview
 
-- <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>
-- <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server/ Administrator</a>
-- <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS Fundamentals</a>
-- <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team Lab</a>
-- <a href="https://github.com/GraveSEC-github/SIEM-and-Log-Analysis/blob/main/README.md">SIEM/ Log Analysis</a>
-- <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR Lab</a>
-- <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a>
-- <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure/ Cloud Lab</a>
-- <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence Frameworks</a>
+I realize the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as SOC operations, practical skills would prepare me for real-world scenarios and help me stand out in the job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, and cost-effectiveness (it's open-source!). I also mapped out my goals for the lab, focusing on key areas like network security, endpoint protection, threat intelligence, and log management. Since I was just starting out, I did not want to invest in expensive hardware, so I repurposed an old mini desktop PC with decent specs and ensured it had enough RAM and storage to run multiple virtual machines simultaneously. By working on these beginner projects in my Proxmox-based SOC home lab, I was able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me my career. Check out my <a href="https://lucky-salto-c8e.notion.site/My-Proxmox-VE-GraveSEC-Home-SOC-Lab-11b5af4946b34615b4f12a22aa1df21b?pvs=4/blob/main/README.md">GraveSEC Home Lab Guide</a> to follow my work.
 
 ## Tools & Resources Used
 
