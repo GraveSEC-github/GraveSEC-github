@@ -69,6 +69,9 @@ My name is William Graves, a current cyber security student with profound curios
 
 #### SIEM & Blue Team Practices
 <div>
+  <a href="https://wazuh.com/platform/overview/" target="_blank">
+  <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white&labelColor=hotpink" />
+</a>
  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview/" target="_blank">
       <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
  </a>
