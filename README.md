@@ -6,19 +6,20 @@
   </div>
 </header>
 
-## About Me
+## About Me -
 
 <a href="https://www.linkedin.com/in/williamgraves-gravesec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 <a href="https://www.youtube.com/@GraveSEC"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 
-Hello ! I am William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. I aslo love watching thriller, action & suspenseful movies. I enjoy moderate fitness and participating in playing basketball from time to time as well as cooking and spending time with close friends and loved ones. With the rest of my free time, my hobby is cybersecurity curiousity.
+My name is William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. I aslo love watching thriller, action & suspenseful movies. I enjoy moderate fitness and participating in playing basketball from time to time as well as cooking and spending time with close friends and loved ones. With the rest of my free time, my hobby is cybersecurity curiousity.
 
-### My Objective
+### My Objective -
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I'm aiming to  venture into the realms of Blue and Purple team SOC strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I strive to be an proficient Tier 1 SOC Analyst and grow into a more seasoned professional through continous education and curiosity.
+  My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I'm aiming to  venture into the realms of Blue and Purple team SOC strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I strive to be an proficient Tier 1 SOC Analyst and grow into a more seasoned professional through continous education and curiosity.
+  I realize the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as cybersecurity operations. Technical and practical skills will assist me in preparation for real-world scenarios as well as aiding me in standing out in this job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, scalability and cost-effectiveness (it's open-source!). I have mapped out my goals & interest using the homelab enviornment, focusing on key areas such as network engineering, network security, detection & prevention concepts, endpoint protection, open-source intelligence & more! For my 'GraveSEC' homelab, I have repurposed an old desktop PC with decent specs and added specs like increased RAM & storage for various virtual machines to progressively & effectively educate myself. By working on diversifying my projects within my Proxmox-based SOC homelab, I am able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me in my journey.
 
-## Certifications
+## Certifications -
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=black" />
 </div>
@@ -33,59 +34,29 @@ My journey in computer science has led me to develop a passion for cybersecurity
   </tr>
 </table>
   
-## My Projects
+## My Projects -
 
 | Objective & Practices                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
-| Building Lab Host PC | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">GraveSEC - OPSEC</a> |
-| Security Awareness User Intelligence Training | <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a> |
-| Network & Firewall Implementation (IDS & IPS) |
-| Windows Server/ Administrator w/ Active Direectory (DC & DNS) |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a> |
-| SIEM - (Wazuh, ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a> |
-| Rouge Red Team | Penetration Test Gone Wrong |
-| Incident Response -  Planning & Execution | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a> |
-| GRC Framework Overview | <a href="">Risk Management Frameworks</a> |
-| Threat Intelligence Lab | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a> |
+| Building Lab Host PC | <a href="https://lucky-salto-c8e.notion.site/5-GraveSEC-SOC-Lab-Overview-4225a2e88ef247429c07df4f618e8594?pvs=4">GraveSEC - Homelab Project</a> |
+| Security Awareness & User Intelligence Training | <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness Training Project</a> |
+| Network & Firewall Overview (IDS & IPS) | Network & Firewall Project |
+| Windows Server/ Administrator w/ Active Direectory (DC & DNS) |<a href="https://lucky-salto-c8e.notion.site/Windows-Server-2022-Active-Directory-Domain-Controller-37cdd394a0784df4a290a07cf7fd6868?pvs=4">Windows Server Project</a> |
+| SIEM - (Wazuh, ELK Stack & Splunk)| <a href="https://lucky-salto-c8e.notion.site/SIEM-Implementation-Configuration-74a90a34023546ada0d996a42b25bb35?pvs=4">Security Information & Event Management Project</a> |
+| Rouge Red Team - Penetration Test Gone Wrong | <a href="https://lucky-salto-c8e.notion.site/Rouge-Red-Team-642e8e1397a449e6abb8ccdc704ad4a4?pvs=4">Penetration Test Project</a> |
+| Incident Response -  Plan & Execution | <a href="https://lucky-salto-c8e.notion.site/Incident-Response-185890c85ec645b09025f1b38d5100dd?pvs=4">Blue Team Beast Project</a> |
+| GRC Framework Overview | <a href="https://lucky-salto-c8e.notion.site/GRC-Security-Frameworks-11a2c82e931b44ffa26bf030917a0b11?pvs=4">Implementing Security Frameworks Project</a> |
+| Threat Intelligence Overview | <a href="">Threat Intelligence Project</a> |
 
+## Tools & Resources Used -
 
-## GraveSEC Home Lab Overview
-
-I realize the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as SOC operations, practical skills would prepare me for real-world scenarios and help me stand out in the job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, and cost-effectiveness (it's open-source!). I also mapped out my goals for the lab, focusing on key areas like network security, endpoint protection, threat intelligence, and log management. Since I was just starting out, I did not want to invest in expensive hardware, so I repurposed an old mini desktop PC with decent specs and ensured it had enough RAM and storage to run multiple virtual machines simultaneously. By working on these beginner projects in my Proxmox-based SOC home lab, I was able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me my career. Check out my <a href="https://lucky-salto-c8e.notion.site/My-Proxmox-VE-GraveSEC-Home-SOC-Lab-11b5af4946b34615b4f12a22aa1df21b?pvs=4/blob/main/README.md">GraveSEC Home Lab Guide</a> to follow my work.
-
-## Tools & Resources Used
-
-#### Hardware & Virualization
+#### Network Assesement Tools
 <div>
-  <a href="https://www.mrmemory.co.uk/memory-ram-upgrades/hp/prodesk/600-g2-mini" target="_blank">
-    <img src="https://img.shields.io/badge/-hp_g2_mini-1679A7?&style=for-the-badge&logo=HP&logoColor=white" />
-</a>
-  <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank">
-    <img src="https://img.shields.io/badge/-Proxmox-FF9933?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
-</a>
-  <a href="https://opnsense.org/about/about-opnsense/" target="_blank">
-    <img src="https://img.shields.io/badge/-OpnSense-848484?&style=for-the-badge&logo=OpnSense&logoColor=white" />
-</a>
-  <a href="https://lucky-salto-c8e.notion.site/Linux-Operating-System-cae01ce27c4d4088bf2c6258bd991cc1?pvs=4/" target="_blank">
-  <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
-  </a>
-   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-  <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-   </a>
-</div>
-
-#### Network Analysis, SIEM & Blue Team Practices
-<div>
-    <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview/" target="_blank">
-      <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-    </a>
-    <a href="https://www.splunk.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white&labelColor=hotpink" />
-    </a>
-  <a href="https://www.elastic.co/elastic-stack/" target="_blank">
-    <img src="https://img.shields.io/badge/-Elastic Stack-008080?&style=for-the-badge&logo=Elastic&logoColor=blue&labelColor=yellow" />
-  </a>
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Wireshark-0074D9?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Nmap-800080?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </a>
   <a href="https://zeek.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Zeek-B57EDC?&style=for-the-badge&logo=Zeek&logoColor=white" />
@@ -95,7 +66,20 @@ I realize the importance of hands-on experience in cybersecurity, especially in 
 </a>
 </div>
 
- #### Security Frameworks
+#### SIEM & Blue Team Practices
+<div>
+ <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview/" target="_blank">
+      <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+ </a>
+  <a href="https://www.splunk.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white&labelColor=hotpink" />
+    </a>
+  <a href="https://www.elastic.co/elastic-stack/" target="_blank">
+    <img src="https://img.shields.io/badge/-Elastic Stack-008080?&style=for-the-badge&logo=Elastic&logoColor=blue&labelColor=yellow" />
+  </a>
+    </div>
+
+ #### GRC & Security Frameworks
  <div>
    <a href="https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-GDPR-4D4D4D?&style=for-the-badge&logo=GDPR&logoColor=white" />
@@ -108,7 +92,17 @@ I realize the importance of hands-on experience in cybersecurity, especially in 
 </a>
 </div>
 
-  #### DFIR
+  #### Open Source Intelligence
+<div>
+<a href="https://osintframework.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-OSINT-000000?&style=for-the-badge&logo=OSINT&logoColor=white" />
+</a>
+  <a href="https://www.exploit-db.com/about-exploit-db" target="_blank">
+    <img src="https://img.shields.io/badge/-Exploit_Database-00008B?&style=for-the-badge&logo=Exploit-Database&logoColor=white" />
+   </a>
+</div>
+
+  #### Incident Response & Digital Forensics
   <div>
   <a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-business-and-individuals-free-trial/" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -137,18 +131,9 @@ I realize the importance of hands-on experience in cybersecurity, especially in 
 
  #### Other Tools
  <div>
-   <a href="https://osintframework.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-OSINT-000000?&style=for-the-badge&logo=OSINT&logoColor=white" />
-</a>
-   <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nmap-800080?&style=for-the-badge&logo=Nmap&logoColor=white" />
-</a>
    <a href="https://www.metasploit.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </a>
-   <a href="https://www.exploit-db.com/about-exploit-db" target="_blank">
-    <img src="https://img.shields.io/badge/-Exploit_Database-00008B?&style=for-the-badge&logo=Exploit-Database&logoColor=white" />
-   </a>
    , .etc
 </div>
 
