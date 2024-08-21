@@ -6,7 +6,7 @@
   </div>
 </header>
 
-## About Me -
+## About Me 👨🏾‍💻 -
 
 <a href="https://www.linkedin.com/in/williamgraves-gravesec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@GraveSEC"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -14,13 +14,13 @@
 
 My name is William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. I aslo love watching thriller, action & suspenseful movies. I enjoy moderate fitness and participating in playing basketball from time to time as well as cooking and spending time with close friends and loved ones. With the rest of my free time, my hobby is cybersecurity curiousity.
 
-### My Objective -
+### My Objective 🎯 -
 
   My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I'm aiming to  venture into the realms of Blue and Purple team SOC strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I strive to be an proficient Tier 1 SOC Analyst and grow into a more seasoned professional through continous education and curiosity.
  
   I understand the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as cybersecurity operations. Technical and practical skills will assist me in preparation for real-world scenarios as well as aiding me in standing out in this job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, scalability and cost-effectiveness (it's open-source!). I have mapped out my goals & interest using the homelab enviornment, focusing on key areas such as network engineering, network security, detection & prevention concepts, endpoint protection, open-source intelligence & more! For my 'GraveSEC' homelab, I have repurposed an old desktop PC with decent specs and added specs like increased RAM & storage for various virtual machines to progressively & effectively educate myself. By working on diversifying my projects within my Proxmox-based SOC homelab, I am able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me in my journey.
 
-## Certifications -
+## Certifications 🪪 -
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=black" />
 </div>
@@ -35,7 +35,7 @@ My name is William Graves, a current cyber security student with profound curios
   </tr>
 </table>
   
-## My Projects -
+## My Projects 🔬 -
 
 | Objective & Practices                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
@@ -49,7 +49,7 @@ My name is William Graves, a current cyber security student with profound curios
 | GRC Framework Overview | <a href="https://lucky-salto-c8e.notion.site/GRC-Security-Frameworks-11a2c82e931b44ffa26bf030917a0b11?pvs=4">Implementing Security Frameworks Project</a> |
 | Threat Intelligence Overview | <a href="">Threat Intelligence Project</a> |
 
-## Tools & Resources Used -
+## Tools & Resources Used 🔧 -
 
 #### Network Assesement Tools
 <div>
@@ -141,7 +141,7 @@ My name is William Graves, a current cyber security student with profound curios
    , .etc
 </div>
 
-## Learning Resources & Platforms 📚 
+## Learning Resources & Platforms 📚 -
 
 #### <a href="https://www.masterschool.com/about-us/">Masterschool - Cybersecurity Bootcamp</a>
 #### <a href="https://www.acilearning.com/login//">ACI Learning</a>
