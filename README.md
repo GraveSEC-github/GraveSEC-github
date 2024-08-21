@@ -17,7 +17,8 @@ My name is William Graves, a current cyber security student with profound curios
 ### My Objective -
 
   My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I'm aiming to  venture into the realms of Blue and Purple team SOC strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I strive to be an proficient Tier 1 SOC Analyst and grow into a more seasoned professional through continous education and curiosity.
-  I realize the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as cybersecurity operations. Technical and practical skills will assist me in preparation for real-world scenarios as well as aiding me in standing out in this job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, scalability and cost-effectiveness (it's open-source!). I have mapped out my goals & interest using the homelab enviornment, focusing on key areas such as network engineering, network security, detection & prevention concepts, endpoint protection, open-source intelligence & more! For my 'GraveSEC' homelab, I have repurposed an old desktop PC with decent specs and added specs like increased RAM & storage for various virtual machines to progressively & effectively educate myself. By working on diversifying my projects within my Proxmox-based SOC homelab, I am able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me in my journey.
+ 
+  I understand the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as cybersecurity operations. Technical and practical skills will assist me in preparation for real-world scenarios as well as aiding me in standing out in this job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, scalability and cost-effectiveness (it's open-source!). I have mapped out my goals & interest using the homelab enviornment, focusing on key areas such as network engineering, network security, detection & prevention concepts, endpoint protection, open-source intelligence & more! For my 'GraveSEC' homelab, I have repurposed an old desktop PC with decent specs and added specs like increased RAM & storage for various virtual machines to progressively & effectively educate myself. By working on diversifying my projects within my Proxmox-based SOC homelab, I am able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me in my journey.
 
 ## Certifications -
 <div>
@@ -92,6 +93,16 @@ My name is William Graves, a current cyber security student with profound curios
 </a>
 </div>
 
+#### Incident Response & Digital Forensics
+  <div>
+  <a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-business-and-individuals-free-trial/" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
+   <a href="https://www.rapid7.com/products/velociraptor/" target="_blank">
+    <img src="https://img.shields.io/badge/-Velociraptor-006400?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+</a>
+</div>
+
   #### Open Source Intelligence
 <div>
 <a href="https://osintframework.com/" target="_blank">
@@ -100,16 +111,6 @@ My name is William Graves, a current cyber security student with profound curios
   <a href="https://www.exploit-db.com/about-exploit-db" target="_blank">
     <img src="https://img.shields.io/badge/-Exploit_Database-00008B?&style=for-the-badge&logo=Exploit-Database&logoColor=white" />
    </a>
-</div>
-
-  #### Incident Response & Digital Forensics
-  <div>
-  <a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-business-and-individuals-free-trial/" target="_blank">
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  </a>
-   <a href="https://www.rapid7.com/products/velociraptor/" target="_blank">
-    <img src="https://img.shields.io/badge/-Velociraptor-006400?&style=for-the-badge&logo=Rapid7&logoColor=white" />
-</a>
 </div>
 
 #### Threat Intelligence
@@ -122,7 +123,7 @@ My name is William Graves, a current cyber security student with profound curios
 </a>
 </div>
 
-#### Cloud Database
+#### Cloud Platform
 <div>
   <a href="https://azure.microsoft.com/en-us/free" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white&labelColor=black" />
