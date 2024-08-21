@@ -40,14 +40,14 @@ My name is William Graves, a current cyber security student with profound curios
 | Objective & Practices                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
 | Building Lab Host PC | <a href="https://lucky-salto-c8e.notion.site/5-GraveSEC-SOC-Lab-Overview-4225a2e88ef247429c07df4f618e8594?pvs=4">GraveSEC - Homelab Project</a> |
-| Security Awareness & User Intelligence Training | <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness Training Project</a> |
-| Network & Firewall Overview (IDS & IPS) | Network & Firewall Project |
+| Security Awareness & User Intelligence Training | Security Awareness Training Project |
+| Network & Firewall Overview (IDS & IPS) | <a href="https://lucky-salto-c8e.notion.site/Virtual-Network-Firewall-w-OpnSense-c3de551e8841416780d3602ca6fba4c9?pvs=4">Network & Firewall Project</a> |
 | Windows Server/ Administrator w/ Active Direectory (DC & DNS) |<a href="https://lucky-salto-c8e.notion.site/Windows-Server-2022-Active-Directory-Domain-Controller-37cdd394a0784df4a290a07cf7fd6868?pvs=4">Windows Server Project</a> |
 | SIEM - (Wazuh, ELK Stack & Splunk)| <a href="https://lucky-salto-c8e.notion.site/SIEM-Implementation-Configuration-74a90a34023546ada0d996a42b25bb35?pvs=4">Security Information & Event Management Project</a> |
 | Rouge Red Team - Penetration Test Gone Wrong | <a href="https://lucky-salto-c8e.notion.site/Rouge-Red-Team-642e8e1397a449e6abb8ccdc704ad4a4?pvs=4">Penetration Test Project</a> |
 | Incident Response -  Plan & Execution | <a href="https://lucky-salto-c8e.notion.site/Incident-Response-185890c85ec645b09025f1b38d5100dd?pvs=4">Blue Team Beast Project</a> |
 | GRC Framework Overview | <a href="https://lucky-salto-c8e.notion.site/GRC-Security-Frameworks-11a2c82e931b44ffa26bf030917a0b11?pvs=4">Implementing Security Frameworks Project</a> |
-| Threat Intelligence Overview | <a href="">Threat Intelligence Project</a> |
+| Threat Intelligence Overview | Threat Intelligence Project |
 
 ## Tools & Resources Used 🔧 -
 
