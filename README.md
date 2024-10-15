@@ -3,7 +3,8 @@
 
 <header id="header"
   <div>
-    <img src="https://github.com/user-attachments/assets/aa2324f2-d711-4c06-8092-d1c06ad39eda" />
+    <img src="https://github.com/user-attachments/assets/98151b11-4def-48eb-97d9-43d117e7de89"
+"" />
   </div>
 </header>
 
