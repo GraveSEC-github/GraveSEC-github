@@ -14,7 +14,10 @@
 <a href="https://www.youtube.com/@GraveSEC"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 
-My name is William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. I aslo love watching thriller, action & suspenseful movies. I enjoy moderate fitness and participating in playing basketball from time to time as well as cooking and spending time with close friends and loved ones. With the rest of my free time, my hobby is cybersecurity curiousity.
+My name is William Graves, and I’m from Detroit, MI. I’m a former welder who’s now working in customer service, while also pursuing my passion for IT and cybersecurity as a full-time student. Technology and information security have always fascinated me, and I’ve immersed myself in this world, working late nights and even pulling all-nighters to study, learn, and tackle home lab projects.
+I find myself deeply drawn to blue and purple team objectives—they’re where I thrive, keeping me engaged as I build my skills. My journey from welding to cybersecurity has been one of passion, growth, and discovery. Each challenge I face, whether in the classroom or my home lab, brings me one step closer to my goal of working in a SOC (Security Operations Center).
+
+I love connecting with others who share my interests in tech, security, and learning. I’m excited to engage with professionals in the field and explore opportunities that will allow me to contribute to protecting and securing the digital realm.
 
 ### My Objective 🎯 -
 
